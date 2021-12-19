@@ -2,21 +2,25 @@
   Ingridy Rodrigues 👩‍💻
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ingridy%20Rodrigues-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridyrodriguesf/)](https://www.linkedin.com/in/ingridyrodriguesf/)
-
 <section align='center'>
-  
   <p>
     Attending Front-end advanced module at Kenzie Academy Brasil
   </p>
-
-  <div>
-    <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=ingridyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  </div>
   
+  <a href="https://www.linkedin.com/in/ingridyrodriguesf/">
+   <img src="https://img.shields.io/badge/-Ingridy%20Rodrigues-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridyrodriguesf/" />
+  </a>
 </section>
 
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<section align='center'>
+  <p>
+    <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=ingridyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </div> 
+</section>
