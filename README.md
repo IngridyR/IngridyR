@@ -15,3 +15,5 @@
 </section>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ingridy%20Rodrigues-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridyrodriguesf/)](https://www.linkedin.com/in/ingridyrodriguesf/)
+
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
