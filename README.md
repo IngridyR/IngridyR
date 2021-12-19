@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align='center'>
+  Ingridy Rodrigues 👩‍💻
+</h1>
 
-<!--
-**ingridyr/ingridyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section align='center'>
+  
+  <p>
+    Attending Front-end advanced module at Kenzie Academy Brasil
+  </p>
 
-Here are some ideas to get you started:
+  <div>
+    <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=ingridyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  </div>
+  
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Ingridy%20Rodrigues-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridyrodriguesf/)](https://www.linkedin.com/in/ingridyrodriguesf/)
