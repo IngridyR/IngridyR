@@ -7,7 +7,7 @@
     Attending Front-end advanced module at Kenzie Academy Brasil
   </p>
   
-  <a href="https://www.linkedin.com/in/ingridyrodriguesf/">
+  <a href="https://www.linkedin.com/in/ingridyrodriguesf/" target="_blank">
    <img src="https://img.shields.io/badge/-Ingridy%20Rodrigues-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridyrodriguesf/" />
   </a>
 </section>
