@@ -4,7 +4,7 @@
 
 <section align='center'>
   <p>
-    Attending Front-end advanced module at Kenzie Academy Brasil
+    Attending Back-end module at Kenzie Academy Brasil
   </p>
   
   <a href="https://www.linkedin.com/in/ingridyrodriguesf/" target="_blank">
