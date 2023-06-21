@@ -14,7 +14,7 @@
 
 <section align='center'>
   <p>
-    <img heigth="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ingridyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+    <img heigth="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ingridyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   </p>
   
   <div>
